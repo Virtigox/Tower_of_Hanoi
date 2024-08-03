@@ -1,9 +1,9 @@
 # Tower_of_Hanoi
 A puzzle that moves disks from one tower to another tower under a couple of restrictions.
-***BEFORE-START***
+***BEFORE-START***\n
 ![image](https://github.com/user-attachments/assets/36ce5a32-ca07-4281-9cc0-1449ef66a647)
 
-**AFTER-SUCCESSFUL!***
+**AFTER-SUCCESSFUL!***\n
 ![image](https://github.com/user-attachments/assets/d736a7b2-ffef-4093-aeeb-f864b3ee6ff1)
 
 RESTRICTION:
